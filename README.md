@@ -1,3 +1,3 @@
 # BeforeAfterComparison
 
-Befor and After image comparison
+Before and After Image Comparison
